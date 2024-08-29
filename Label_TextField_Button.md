@@ -14,4 +14,4 @@
 ---
 ### Output
 
-![alt text](label_textfield_button.PNG)
+![alt text](label_textfield_button.png)
