@@ -11,7 +11,3 @@
         sum.setText("Addition is: "+sum1);
     }  
 ```
----
-### Output
-
-![alt text](label_textfield_button.png)
